@@ -1,0 +1,6 @@
+c:\users\mat\documents\visual studio 2012\Projects\PatronFactory\PatronFactory\bin\Debug\PatronFactory.exe.config
+c:\users\mat\documents\visual studio 2012\Projects\PatronFactory\PatronFactory\bin\Debug\PatronFactory.exe
+c:\users\mat\documents\visual studio 2012\Projects\PatronFactory\PatronFactory\bin\Debug\PatronFactory.pdb
+c:\users\mat\documents\visual studio 2012\Projects\PatronFactory\PatronFactory\obj\Debug\PatronFactory.csprojResolveAssemblyReference.cache
+c:\users\mat\documents\visual studio 2012\Projects\PatronFactory\PatronFactory\obj\Debug\PatronFactory.exe
+c:\users\mat\documents\visual studio 2012\Projects\PatronFactory\PatronFactory\obj\Debug\PatronFactory.pdb
